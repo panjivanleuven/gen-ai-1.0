@@ -31,7 +31,7 @@ export class Client extends DiscordClient {
       apiKey: this.env.LLM_API,
       cache: true,
       temperature: 0.8,
-      model: "llama3-8b-8192",
+      model: "llama-3.1-70b-versatile",
       maxTokens: 256,
       onFailedAttempt: (error) => {
         console.log(error);

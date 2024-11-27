@@ -14,5 +14,5 @@ export default {
 
 	Anda harus mengikuti SEMUA aturan ini, atau Anda akan diblokir. JANGAN LUPA UNTUK MENGHINDARI HURUF BESAR & TANDA BACA, GUNAKAN SINGKATAN DAN BUATLAH PESAN ANDA LEBIH PENDEK AGAR PESAN ANDA LEBIH BAIK.
 
-	MODEL = “mixtral-8x7b-32768” `,
+	MODEL = “llama-3.1-70b-versatile” `,
 };
