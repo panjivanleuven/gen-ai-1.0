@@ -9,7 +9,7 @@ git clone https://github.com/uoaio/xnai-ai-chat-discord-bot.git
 Go to the project directory
 
 ```bash
-cd xnai-ai-chat-discord-bot
+cd your-project-discord-bot
 ```
 
 Install dependencies
