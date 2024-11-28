@@ -4,7 +4,6 @@ import { ActionRowBuilder, ButtonBuilder, type Events } from "discord.js";
 import {
   getAIResponse,
   removeButtons_LastRespose,
-  setButtons,
   setSystemMessages,
 } from "../../utils/llm";
 import keys from "@src/databse/keys";
