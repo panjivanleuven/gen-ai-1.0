@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-git clone https://github.com/uoaio/xnai-ai-chat-discord-bot.git
+git clone https://github.com
 ```
 
 Go to the project directory
