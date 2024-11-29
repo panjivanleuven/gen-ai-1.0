@@ -70,11 +70,6 @@ const messageCreate: eventExecute<Events.MessageCreate> = async (message) => {
 
       const msg = await message.reply({ content });
 
-      setButtons(msg, [...prompt, ["human", message.cleanContent]] as any, {
-        author: message.member,
-      });
-      removeButtons_LastRespose(message, msg);
-
       const conversation = [
         ...author_chat.slice(-AI.Max_Conversation_History),
         ["human", message.cleanContent],
