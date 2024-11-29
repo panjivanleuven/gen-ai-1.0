@@ -109,5 +109,5 @@ export class Client extends DiscordClient {
 }
 
 /**
- * @developer @uoaio discord.uoaio.xyz
+ * @developer @panjivanleuven
  */
