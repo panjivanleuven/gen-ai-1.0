@@ -15,5 +15,5 @@ export const env = createEnv({
 
 
 /**
- * @developer @uoaio discord.uoaio.xyz 
+ * @developer @panjivanleuven
  */
