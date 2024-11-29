@@ -15,5 +15,5 @@ await client.deployCommands()
 
 
 /**
- * @developer @uoaio discord.uoaio.xyz 
+ * @developer @panjivanleuven
  */
